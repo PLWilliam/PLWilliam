@@ -69,7 +69,7 @@
 
 <div align="center">  
   
-<img src="https://wakatime.com/share/@d9e43321-b16a-4b10-9028-a82a5c77f7b5/0653907a-f3c6-484f-ac17-accb3c844da7.svg"/>
+<a href="https://wakatime.com/@d9e43321-b16a-4b10-9028-a82a5c77f7b5"><img src="https://wakatime.com/share/@d9e43321-b16a-4b10-9028-a82a5c77f7b5/0653907a-f3c6-484f-ac17-accb3c844da7.svg"/></a>
 
 <br/> 
 
